@@ -30,6 +30,7 @@ p {
     text-align: center;
     font-weight: lighter;
     padding-bottom: 40px;
+    font-size: 21px;
 }
 
 #left-alligned{
@@ -37,6 +38,7 @@ p {
     font-size: larger;
     text-align: left;
     font-weight: lighter;
+    font-size: 21px;
 }
 
 a:link {
