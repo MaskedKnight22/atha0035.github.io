@@ -21,7 +21,7 @@ h2 {
 }
 
 .pure-u-1-2{
-    margin-bottom: 20px;
+    margin-bottom: -50px;
 }
 
 p {
@@ -29,6 +29,7 @@ p {
     font-size: larger;
     text-align: center;
     font-weight: lighter;
+    padding-bottom: 40px;
 }
 
 #left-alligned{
@@ -43,3 +44,15 @@ a:link {
     background-color: transparent;
     text-decoration: none;
   }
+
+#PriceBarVisual {
+    margin-bottom: 50px;
+}
+
+.red{
+    color: rgb(245, 92, 92)
+}
+
+.green{
+    color: #90c070
+}
