@@ -1,8 +1,16 @@
-html, body {
+body {
     background-color: #efd9da;
     margin-left: 20px;
     margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: #df686c;
+    border-style: dotted;
     }
+
+html{
+    background-color: #dd9194;
+}
 
 
 h1 {
@@ -18,6 +26,7 @@ h2 {
     text-align: left;
     font-family: 'Open Sans';
     padding-top: 20px;
+    padding-left: 20px;
 }
 
 .pure-u-1-2{
@@ -31,6 +40,10 @@ p {
     font-weight: lighter;
     padding-bottom: 40px;
     font-size: 21px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+    
 }
 
 #left-alligned{
